@@ -1,0 +1,6 @@
+{
+  "name": "Movo — Complete Ride-Hailing Platform Demo",
+  "description": "Production-quality interactive demo of the Movo ride-hailing ecosystem featuring synchronized Rider App, Driver App, Admin Console, and Agent Dispatch Console with live geospatial tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
